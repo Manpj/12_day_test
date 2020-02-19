@@ -1,4 +1,4 @@
-package com.test.test.com.rabbitmq.com.workqueue;
+package com.test.test.com.rabbitmq.workqueue;
 
 import com.rabbitmq.client.*;
 import com.test.test.com.rabbitmq.ConnnectionUtil;
